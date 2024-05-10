@@ -1,3 +1,6 @@
 # Git test
-- Conflics fixed
-im sunwoo
+<<<<<<
+-bug fixed
+- hotfix
+-errorrrrrr
+>>>>>>> cb9ffcffc308c8edb6623238863ce5c8913c3585

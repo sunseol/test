@@ -1,3 +1,2 @@
 # Git test
--bug fixed
-- hotfix1
+- Conflics fixed
